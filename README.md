@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Amine!
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with a foundation in JavaScript (Next.js) for frontend magic, coupled with the robustness of Ruby on Rails & NodeJs for backend wizardry, I strive to build seamless, scalable, and beautiful applications.
+Welcome to my GitHub profile! I'm a passionate full stack developer with a foundation in JavaScript (Next.js) for frontend magic, coupled with the robustness of Ruby on Rails & NodeJs for backend wizard.
 
 ## 💼 What I Do
 
