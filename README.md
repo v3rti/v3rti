@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a found
 
 ## 📫 Let's Connect!
 
-- 🔗 Portfolio: [Check my projects](https://google.com)
+- 🔗 Portfolio: [Check my projects](https://portfolio-nine-ruby-30.vercel.app)
 - 📧 Email: med.bagui.1@gmail.com
 - 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mohamed-amine-bagui-624a252a8/)
 
