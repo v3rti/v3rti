@@ -15,4 +15,4 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a found
 
 ## 📫 Let's Connect!
 
-- 🔗 Portfolio: [Check my projects](https://portfolio-nine-ruby-30.vercel.app)
+- 🔗 Portfolio: [Check my projects](https://aminejs.com/)
